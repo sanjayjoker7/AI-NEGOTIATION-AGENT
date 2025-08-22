@@ -1,0 +1,221 @@
+{
+  "comprehensive_test": {
+    "success_rate": 66.66666666666666,
+    "total_savings": 929812,
+    "deals_made": 18,
+    "total_tests": 27,
+    "avg_savings_pct": 26.428112433862434,
+    "performance_by_seller": {
+      "standard": {
+        "success_rate": 66.66666666666666,
+        "deals": 6,
+        "total": 9
+      },
+      "aggressive": {
+        "success_rate": 66.66666666666666,
+        "deals": 6,
+        "total": 9
+      },
+      "flexible": {
+        "success_rate": 66.66666666666666,
+        "deals": 6,
+        "total": 9
+      }
+    },
+    "grade": "ACCEPTABLE \u2713"
+  },
+  "benchmark_comparison": {
+    "Advanced Diplomatic": {
+      "success_rate": 100.0,
+      "total_savings": 125000,
+      "avg_consistency": 0.7999999999999999,
+      "deals_made": 3,
+      "results": [
+        {
+          "deal_made": true,
+          "final_price": 187000,
+          "rounds": 2,
+          "savings": 55000,
+          "savings_pct": 22.727272727272727,
+          "below_market_pct": 15.0,
+          "conversation": [
+            {
+              "role": "seller",
+              "message": "I have premium export-grade Premium Alphonso from Ratnagiri. My asking price is \u20b9308,000 for 100 units."
+            },
+            {
+              "role": "buyer",
+              "message": "Good day! I'm very interested in your 100 units of Premium Alphonso with export-grade quality. \n            I recognize the premium reputation of Ratnagiri produce. Based on my current market analysis and quality assessment, \n            I'd like to offer \u20b9161,700 as a starting point for our negotiation. \n            I believe this reflects fair value while allowing room for discussion."
+            },
+            {
+              "role": "seller",
+              "message": "I can consider \u20b9187,000 for this quality."
+            },
+            {
+              "role": "buyer",
+              "message": "Excellent! \u20b9187,000 represents outstanding value. I'm delighted to confirm this deal."
+            }
+          ],
+          "seller_personality": "standard",
+          "efficiency_score": 90
+        },
+        {
+          "deal_made": true,
+          "final_price": 127500,
+          "rounds": 2,
+          "savings": 37500,
+          "savings_pct": 22.727272727272727,
+          "below_market_pct": 15.0,
+          "conversation": [
+            {
+              "role": "seller",
+              "message": "I have finest Grade-A Standard Kesar from Gujarat. My asking price is \u20b9210,000 for 150 units."
+            },
+            {
+              "role": "buyer",
+              "message": "Hello! Your Standard Kesar caught my attention - premium Grade-A quality from Gujarat is exactly what I'm seeking. \n            After reviewing comparable market prices and considering the 150-unit volume, \n            I can offer \u20b9105,000 to begin our negotiation. \n            I'm confident we can find a mutually beneficial agreement."
+            },
+            {
+              "role": "seller",
+              "message": "I can consider \u20b9127,500 for this quality."
+            },
+            {
+              "role": "buyer",
+              "message": "Wonderful! \u20b9127,500 is exactly the kind of fair pricing that builds long-term relationships. Agreed!"
+            }
+          ],
+          "seller_personality": "standard",
+          "efficiency_score": 90
+        },
+        {
+          "deal_made": true,
+          "final_price": 110500,
+          "rounds": 2,
+          "savings": 32500,
+          "savings_pct": 22.727272727272727,
+          "below_market_pct": 15.0,
+          "conversation": [
+            {
+              "role": "seller",
+              "message": "I have excellent Grade-B Bulk Banganapalli from Andhra Pradesh. My asking price is \u20b9182,000 for 200 units."
+            },
+            {
+              "role": "buyer",
+              "message": "Hello! Your Bulk Banganapalli caught my attention - excellent Grade-B value from Andhra Pradesh is exactly what I'm seeking. \n            After reviewing comparable market prices and considering the 200-unit volume, \n            I can offer \u20b991,000 to begin our negotiation. \n            I'm confident we can find a mutually beneficial agreement."
+            },
+            {
+              "role": "seller",
+              "message": "I can consider \u20b9110,500 for this quality."
+            },
+            {
+              "role": "buyer",
+              "message": "Excellent! \u20b9110,500 represents outstanding value. I'm delighted to confirm this deal."
+            }
+          ],
+          "seller_personality": "standard",
+          "efficiency_score": 90
+        }
+      ]
+    },
+    "Simple Cautious": {
+      "success_rate": 100.0,
+      "total_savings": 125000,
+      "avg_consistency": 0.5,
+      "deals_made": 3,
+      "results": [
+        {
+          "deal_made": true,
+          "final_price": 187000,
+          "rounds": 2,
+          "savings": 55000,
+          "savings_pct": 22.727272727272727,
+          "below_market_pct": 15.0,
+          "conversation": [
+            {
+              "role": "seller",
+              "message": "I have premium export-grade Premium Alphonso from Ratnagiri. My asking price is \u20b9308,000 for 100 units."
+            },
+            {
+              "role": "buyer",
+              "message": "I'm interested, but \u20b9132000 is what I can offer. Let me think about that..."
+            },
+            {
+              "role": "seller",
+              "message": "I can consider \u20b9187,000 for this quality."
+            },
+            {
+              "role": "buyer",
+              "message": "Alright, \u20b9187000 works for me!"
+            }
+          ],
+          "seller_personality": "standard",
+          "efficiency_score": 90
+        },
+        {
+          "deal_made": true,
+          "final_price": 127500,
+          "rounds": 2,
+          "savings": 37500,
+          "savings_pct": 22.727272727272727,
+          "below_market_pct": 15.0,
+          "conversation": [
+            {
+              "role": "seller",
+              "message": "I have finest Grade-A Standard Kesar from Gujarat. My asking price is \u20b9210,000 for 150 units."
+            },
+            {
+              "role": "buyer",
+              "message": "I'm interested, but \u20b990000 is what I can offer. Let me think about that..."
+            },
+            {
+              "role": "seller",
+              "message": "I can consider \u20b9127,500 for this quality."
+            },
+            {
+              "role": "buyer",
+              "message": "Alright, \u20b9127500 works for me!"
+            }
+          ],
+          "seller_personality": "standard",
+          "efficiency_score": 90
+        },
+        {
+          "deal_made": true,
+          "final_price": 110500,
+          "rounds": 2,
+          "savings": 32500,
+          "savings_pct": 22.727272727272727,
+          "below_market_pct": 15.0,
+          "conversation": [
+            {
+              "role": "seller",
+              "message": "I have excellent Grade-B Bulk Banganapalli from Andhra Pradesh. My asking price is \u20b9182,000 for 200 units."
+            },
+            {
+              "role": "buyer",
+              "message": "I'm interested, but \u20b978000 is what I can offer. Let me think about that..."
+            },
+            {
+              "role": "seller",
+              "message": "I can consider \u20b9110,500 for this quality."
+            },
+            {
+              "role": "buyer",
+              "message": "Alright, \u20b9110500 works for me!"
+            }
+          ],
+          "seller_personality": "standard",
+          "efficiency_score": 90
+        }
+      ]
+    }
+  },
+  "validation": {
+    "personality_defined": true,
+    "methods_implemented": true,
+    "budget_safety": true,
+    "message_quality": true,
+    "performance_benchmarks": true,
+    "overall_score": 5
+  }
+}
